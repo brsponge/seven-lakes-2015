@@ -1,4 +1,4 @@
 * Seven Lakes 2015
 The solutions for the programming problems of the 2015 Seven Lakes High School programming contest.
 ** License
-[[file:LICENSE][GNU General Public License v3]]
+[[file:LICENSE][GNU General Public License Version 3]]
